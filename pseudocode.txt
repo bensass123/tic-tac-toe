@@ -1,0 +1,20 @@
+// tic-tac-toe
+
+// build layout
+
+// create 3 arrays 
+
+// user goes first, when clicked add X
+
+// computer plays O in random cell
+
+// check for win
+
+	// 8 possible win paths
+		// across row x3
+		// across col x3
+		// diagonal left
+		// diagonal right
+
+	// if win, output win count
+
